@@ -2,7 +2,7 @@
 
 Đây là 1 project nhóm trong lúc học về lập trình web,
 lấy chủ đề là shop bán hoa.
-
+Nó vẫn có đầy đủ chức năng đăng nhập, có database hoàn chỉnh cũng như là tìm kiếm sản phẩm theo tên, giá từ thấp đến cao, thanh toán
 ### 🛠 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
